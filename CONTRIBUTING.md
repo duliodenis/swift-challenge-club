@@ -2,7 +2,7 @@
 
 ## Post an Issue
 
-The first rule of the Swift Challenge Club is if you discover a bug or error, please [add an issue](https://github.com/duliodenis/swift-challenge-club/issues) here on GitHub. Feature requests are welcome. However, I am a one-man band, so pull requests are preferred.
+The third rule of the Swift Fight Club is if you discover a bug or error, please [add an issue](https://github.com/duliodenis/swift-fight-club/issues) here on GitHub. Feature requests are welcome. However, I am a one-man band, so pull requests are preferred.
 
 
 ## Create a Pull Request
@@ -13,7 +13,7 @@ The **master** branch is for production-ready content and should not contain inc
 
 
 ## Licensing
-SCC is licensed under [the MIT License](LICENSE).
+SFC is licensed under [the MIT License](LICENSE).
 
 ## Support or Contact
 Visit [ddApps.co](http://ddapps.co) to see more.
